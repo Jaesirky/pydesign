@@ -1,7 +1,7 @@
 """This is a mini text caculator interpreter
 
 Here is the grammar:
-    expression ::= func | value | group | `(` expression `)`
+    expression ::= func | value | `(` expression `)`
     func ::= sin(expression)|cos(expression)|tan(expression)|cos(expression)|
     value ::= 1.0 | nan
 
